@@ -1,0 +1,1 @@
+1.Shell reads and interprets commands allowing users to interact with the operating system 2.I learned how to interact with the system administration, scripting and automation 3.Using shell is faster than manual navigation.
